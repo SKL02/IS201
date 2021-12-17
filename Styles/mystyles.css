@@ -1,0 +1,33 @@
+.reslist{
+    font-size: 18px;
+    font-style: italic;
+    font-weight:normal;
+            }
+.ResumeListHeadings{
+    font-size: larger;
+    font-weight:bold;
+    font-style: normal;}
+.bukowski{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(16, 16, 68);
+}
+.blackbody{
+    color: white;
+    background-color:black;
+}
+.syd{
+   font-family: double;
+   font-size: 36px;
+}
+.adark{color: white;}
+.bluebody{
+    background-color:#c9a981;
+    color: white;
+}
+.lightbody{
+    background-color:#d1a19a;
+
+}
+.black{
+    color: black;
+}

@@ -1,0 +1,56 @@
+.header{
+    line-height: 1;
+    top: 10px;
+    left: 10px;
+    right:5px;
+    height: 150px;
+    z-index: 2;
+    float:right
+}
+.mainbody{
+    top: 114px;
+    bottom: 64px;
+    left: 114px; 
+    right:114px;
+    padding-top: 100px;
+    padding-right: 100px;
+    padding-left: 100px;
+    font-size: larger;
+}
+
+
+.atabnav{
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(104, 162, 180);
+}
+.ahover{
+    text-decoration: underline;
+    color: midnightblue;
+}
+.darkbod{
+    color: white;
+    background-color:black;
+}
+.titles{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    text-align: justify;
+}
+.sub{
+    font-size: 26px;
+}
+.imoverit{
+   object-fit: contain;}
+.links{color: white;}
+
+.Footer{
+    bottom:10px;
+    height:10px;
+    right:5px;
+    left:5px;
+    font-size: 18px;
+    color: grey;
+    text-align: center;
+    position: fixed;
+}
